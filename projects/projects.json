@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Editing Video",
+    "desc": "Top views video di Instagram @morayamahakuningan, edited by capcut",
+    "image": "video",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/file/d/1ElzbpLsSfKs1bnwGDSficN3dVjWxtme7/view"
+    }
+  },
+  {
+    "name": "Paid Advertising",
+    "desc": "Meta ads di @morayamahakuningan",
+    "image": "paid",
+    "category": "mern",
+    "links": {
+      "view": "hhttps://drive.google.com/file/d/1yqb1rR2q71KKyp3pEFBT28kbEGL_VTDW/view"
+    }
+  },
+  {
+    "name": "Feed Desain",
+    "desc": "Kumpulan beberapa desain di Instagram @morayamahakuningan",
+    "image": "desain",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/file/d/104pf5YNpBmGfVlgG5codn7rm-6quAynR/view"
+    }
+  },
+  {
+    "name": "Visual Merchandising",
+    "desc": "Brosur, Spanduk, Xbanner, ID Card, dll",
+    "image": "merch",
+    "category": "lamp",
+    "links": {
+      "view": "https://drive.google.com/file/d/1TBa5aN9NLI5YfaSeeaxdiXNUVl15yX7E/view"
+    }
+  },
+  {
+    "name": "Sosmed Performance",
+    "desc": "Sosial media performance berdasarkan data dari juni 2023 - juni 2024, Instagram @morayamahakuningan",
+    "image": "mora",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/1nhjCtfUue91xifezHz8bP-doLwLeLH7u/view"
+    }
+  },
+  {
+    "name": "Website KKN desa Sidaraja",
+    "desc": "Melaksanakan kegiatan kkn dan membuat web sederhana menggunakan html, css, javascript",
+    "image": "kkn",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sidaraja.github.io/kkn60_uniku/"
+    }
+  },
+  {
+    "name": "Event Launching Nmax TURBO",
+    "desc": "Video Costumer Gathering Launching Nmax Turbo",
+    "image": "motor",
+    "category": "lamp",
+    "links": {
+      "view": "https://www.instagram.com/p/C_IJfnQStUs/"
+    }
+  },
+  {
+    "name": "Testing Wedding Invitation",
+    "desc": "Belum final web testing pernikahan arben & ayu",
+    "image": "arben",
+    "category": "basicweb",
+    "links": {
+      "view": "https://arisfikri.github.io/weding/"
+    }
+  },
+  {
+    "name": "Coffe Shop Indri",
+    "desc": "Wordpress",
+    "image": "web",
+    "category": "basicweb",
+    "links": {  
+      "view": "https://indrihandayanii.wordpress.com/"
+    }
+  },
+  {
+    "name": "Mora Yamaha Pricelist",
+    "desc": "Wordpress",
+    "image": "moramotor",
+    "category": "basicweb",
+    "links": {
+      "view": "https://morakuningan.wordpress.com/"
+    }
+  },
+  {
+    "name": "Sertifikat BNSP",
+    "desc": "Jakarta, 25 Juni 2019",
+    "image": "bnsp",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/file/d/1qQIHe6rQuh1zI-MN6kyL_lBukGgO68dS/view"
+    }
+  },
+  {
+    "name": "Sertifikat KOMINFO",
+    "desc": "Bekasi, 17 Mei 2019",
+    "image": "kominfo",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/file/d/1L6S8VbaxbA76lQNOz5aS-DtK8g3rvtgE/view"
+    }
+  },
+  {
+    "name": "Sertifikat Microsoft",
+    "desc": "Office Excel @2016, Pelatihan Agustus 2021",
+    "image": "ms",
+    "category": "android",
+    "links": {
+      "view": "https://drive.google.com/file/d/1LU33g3rJRGCvYUluET3IWpyBsVIXeJwb/view"
+    }
+  },
+  {
+    "name": "Pengiriman Motor",
+    "desc": "bukti pengiriman motor",
+    "image": "testi",
+    "category": "mern",
+    "links": {
+      "view": "https://drive.google.com/file/d/1aBoB4EFCG9HynGhvT9sgXY9hex3F7uMr/view"
+    }
+  }
+]

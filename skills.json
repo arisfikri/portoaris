@@ -1,0 +1,78 @@
+[
+    {
+        "name": "CorelDraw",
+        "icon": "https://i.ibb.co.com/TxBVFsvR/corel-3.png"
+    },
+    {
+        "name": "Photoshop",
+        "icon": "https://i.ibb.co.com/SSqNZdT/photoshop.png"
+    },
+    {
+        "name": "PremierePro",
+        "icon": "https://i.ibb.co.com/DPGCyTyD/premiere.png"
+    },
+    {
+        "name": "Capcut",
+        "icon": "https://i.ibb.co.com/67XBsDKZ/Cap-Cut-logo-1.png"  
+    },
+    {
+        "name": "Canva",
+        "icon": "https://i.ibb.co.com/pCN91M5/icons8-canva-64.png"
+    },
+    {
+        "name": "Ms. Office",
+        "icon": "https://i.ibb.co.com/6JcWcMtH/icons8-microsoft-office-64.png"
+    },
+    {
+        "name": "MailChimp",
+        "icon": "https://i.ibb.co.com/jPwCkXxk/icons8-mailchimp-64-1.png"
+    },
+    {
+        "name": "Hootsuite",
+        "icon": "https://i.ibb.co.com/4kHccTK/icons8-hootsuite-is-a-social-media-management-platform-64-2.png"
+    },
+    {
+        "name": "SEMrush",
+        "icon": "https://i.ibb.co.com/b5ShB0zT/1f98f505180d14739e58c06d7a11eaea-1.png"
+    },
+    {
+        "name": "Meta Ads",
+        "icon": "https://i.ibb.co.com/WpDqQk6j/icons8-meta-64.png"
+    },
+    {
+        "name": "Google Ads",
+        "icon": "https://i.ibb.co.com/NgxzM2J9/icons8-google-ads-64.png"
+    },
+    {
+        "name": "Google Analytics",
+        "icon": "https://i.ibb.co.com/PzZVrpZB/icons8-google-analytics-64.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "WordPress",
+        "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    }    
+]
